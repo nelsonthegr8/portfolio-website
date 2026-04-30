@@ -135,8 +135,3 @@ document.querySelectorAll('.project-card').forEach(card => {
         card.style.transform = 'perspective(1000px) rotateX(0) rotateY(0) translateY(0)';
     });
 });
-
-// Console easter egg
-console.log('%c👋 Hi there!', 'color: #2563eb; font-size: 20px; font-weight: bold;');
-console.log('%cI\'m Nelson Brumaire - Software Developer', 'color: #6b7280; font-size: 14px;');
-console.log('%cCheck out my work at nelsonbrumaire.com', 'color: #6b7280; font-size: 14px;');
